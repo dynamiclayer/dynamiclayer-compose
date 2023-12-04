@@ -253,7 +253,7 @@ If you need the Figma files for the components you can check out our website for
 
 ## Dynamic Layer Icons
 
-Start using over 200+ free and open-source collection of solid and outline SVG icons built for SwiftUI and with support for Figma:
+Start using over 200+ free and open-source collection of solid and outline SVG icons built for Compose and with support for Figma:
 
 🔍 [Check out the icons](https://www.figma.com/file/IAdbPrA3DUvx4d7lKRCZDF/Dynamic-Layers-V.3.0?type=design&node-id=150%3A62879&mode=design&t=NmFDkHt8nlZJyhIo-1)
 
