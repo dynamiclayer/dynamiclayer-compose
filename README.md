@@ -9,30 +9,16 @@
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Documentation](#documentation)
-- [Getting started](#getting-started)
-  - [Install using NPM](#install-using-npm)
-  - [Include via CDN](#include-via-cdn)
-  - [Bundled JavaScript](#bundled-javascript)
-  - [Data attributes](#data-attributes)
-    - [Init functions](#init-functions)
-  - [ESM and CJS](#esm-and-cjs)
-  - [TypeScript](#typescript)
-  - [RTL support](#rtl-support)
-  - [JavaScript Frameworks](#javascript-frameworks)
-  - [Back-end Frameworks](#back-end-frameworks)
+- [How to use](#how-to-use)
 - [Components](#components)
+- [Tokens](#tokens)
 - [Figma Design System](#figma-design-system)
-- [Flowbite Blocks](#flowbite-blocks)
-- [Flowbite Icons](#flowbite-icons)
-- [Flowbite GPT](#flowbite-gpt)
-- [Pro version](#pro-version)
-- [Hire us](#hire-us)
-- [Learn Design Concepts](#learn-design-concepts)
-- [Community](#community)
+- [Dynamic Layer Icons](#dynamic-layer-icons)
+- [Premium Version](#premium-version)
 - [Copyright and license](#copyright-and-license)
 
-## Documentation
+
+## How to use
 
 For full documentation, visit [flowbite.com](https://flowbite.com/).
 
