@@ -1,19 +1,19 @@
 <p>
-    <a href="https://flowbite.com" >
-      <img alt="Flowbite - Tailwind CSS components" width="350" src="https://flowbite.s3.amazonaws.com/github/logo-github.png">
-    </a><br>
-    Build websites even faster with components on top of Tailwind CSS
+    <a href="https://dynamiclayers.de" >
+      <img alt="Dynamic Layer - Swift and Figma components" width="100%" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e1fec0ce6a25b81eb1884_swift-github-read-me.jpg">
+    </a>
 </p>
 
-Dynamic Layer is the biggest Components library for Figma, Swift, Compose and React Native. This file uncludes 7 mobile optimized reusable UI components and many Design Tokens for Swift and Figma. The Full Version includes more than 20+ components.
+<b> Dynamic Layer is the biggest Components library for Figma, Swift, Compose and React Native. This file uncludes 7 mobile optimized reusable UI components and many Design Tokens for Swift and Figma. The Full Version includes more than 20+ components. </b>
 
-[Download the full free Package today!](https://dynamiclayers.de/)
+<b> [Download the full free Package today!](https://dynamiclayers.de/) </b>
 
 With Dynamic Layers you get a Figma, Swift, Compose and React native file for your work. It optimizes collaboration between designers and developers. Designers use pre-built components for their designs in Figma and developers use the same components through copy and paste in their code. This makes the entire process of creating an app from start to finish 10x faster.
 
 Find out more at: [dynamiclayers.de](https://dynamiclayers.de/)
 
-------
+
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -35,13 +35,13 @@ If you want to know how to best use the files, you can watch our YouTube video. 
 
 ## Components
 
-Flowbite is an open source collection of UI components built with the utility classes from Tailwind CSS that you can use as a starting point when coding user interfaces and websites.
+Dynamic Layer is an collection of UI components built with Figma and SwiftUI that you can use as a starting point when coding user interfaces and mobile apps.
 
 <table>
   <tr>
-    <td width="33.3333%">Alerts</td>
-    <td width="33.3333%">Badge</td>
-    <td width="33.3333%">Breadcrumbs</td>
+    <td width="33.3333%">Button</td>
+    <td width="33.3333%">Icon Button</td>
+    <td width="33.3333%">Top Navigation</td>
   </tr>
   <tr>
     <td width="33.3333%">
