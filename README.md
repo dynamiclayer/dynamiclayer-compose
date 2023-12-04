@@ -61,24 +61,24 @@ Dynamic Layer is an collection of UI components built with Figma and SwiftUI tha
     </td>
   </tr>
   <tr>
-    <td width="33.3333%">Buttons</td>
-    <td width="33.3333%">Button group</td>
-    <td width="33.3333%">Cards</td>
+    <td width="33.3333%">Input Field</td>
+    <td width="33.3333%">Bottom Navigation</td>
+    <td width="33.3333%">Avatar</td>
   </tr>
   <tr>
     <td width="33.3333%">
-        <a href="https://flowbite.com/docs/components/buttons/">
-            <img alt="Tailwind CSS Buttons" src="https://flowbite.s3.amazonaws.com/github/buttons.jpg">
+        <a href="https://www.dynamiclayers.de/components/input-field">
+            <img alt="Dynamic Layer Input Field" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3ff445d49e39e2323f_read-me-input-field.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://flowbite.com/docs/components/button-group/">
-            <img alt="Tailwind CSS Button Group" src="https://flowbite.s3.amazonaws.com/github/button-group.jpg">
+        <a href="https://www.dynamiclayers.de/components/bottom-navigation">
+            <img alt="Dynamic Layer Bottom Navigation" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3d63b1a7f4751e172c_read-me-bottom-navigation.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://flowbite.com/docs/components/card/">
-            <img alt="Tailwind CSS Cards" src="https://flowbite.s3.amazonaws.com/github/cards.jpg">
+        <a href="https://www.dynamiclayers.de/components/avatar">
+            <img alt="Dynamic Layer Avatar" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3d5cecc072c46ef7e1_read-me-avatar.jpg">
         </a>
     </td>
   </tr>
