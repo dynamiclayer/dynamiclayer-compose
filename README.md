@@ -45,8 +45,8 @@ Dynamic Layer is an collection of UI components built with Figma and SwiftUI tha
   </tr>
   <tr>
     <td width="33.3333%">
-        <a href="https://flowbite.com/docs/components/alerts/">
-            <img alt="Tailwind CSS Alerts" src="https://flowbite.s3.amazonaws.com/github/alerts.jpg">
+        <a href="https://www.dynamiclayers.de/components/button">
+            <img alt="Dynamic Layer Button" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e24aee049ebcdeb49603b_read-me-button.jpg">
         </a>
     </td>
     <td width="33.3333%">
