@@ -5,6 +5,14 @@
     Build websites even faster with components on top of Tailwind CSS
 </p>
 
+Dynamic Layer is the biggest Components library for Figma, Swift, Compose and React Native. This file uncludes 7 mobile optimized reusable UI components and many Design Tokens for Swift and Figma. The Full Version includes more than 20+ components.
+
+[Download the full free Package today!](https://dynamiclayers.de/)
+
+With Dynamic Layers you get a Figma, Swift, Compose and React native file for your work. It optimizes collaboration between designers and developers. Designers use pre-built components for their designs in Figma and developers use the same components through copy and paste in their code. This makes the entire process of creating an app from start to finish 10x faster.
+
+Find out more at: [dynamiclayers.de](https://dynamiclayers.de/)
+
 ------
 ## Table of Contents
 
