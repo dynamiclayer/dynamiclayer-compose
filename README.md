@@ -30,7 +30,7 @@ Find out more at: [dynamiclayers.de](https://dynamiclayers.de/)
 
 If you want to know how to best use the files, you can watch our YouTube video. There we will explain to you step by step what you have to do.
 
-[🎥 Check out our YouTube channel](https://dynamiclayers.de/).
+🎥 [Check out our YouTube channel](https://dynamiclayers.de/).
 
 
 ## Components
@@ -502,61 +502,23 @@ Dynamic Layer is an collection of UI components built with Figma and SwiftUI tha
 
 If you need the Figma files for the components you can check out our website for more information:
 
-🎨 [Get access to the Figma design files](https://flowbite.com/figma/)
+🎨 [Check out the Figma preview](https://www.figma.com/file/IAdbPrA3DUvx4d7lKRCZDF/Dynamic-Layers-V.3.0?type=design&node-id=1169%3A12301&mode=design&t=NmFDkHt8nlZJyhIo-1)
 
-## Flowbite Blocks
+## Dynamic Layer Icons
 
-Check out Flowbite Blocks to get access to over 330+ website sections coded in Tailwind CSS and Flowbite:
+Start using over 200+ free and open-source collection of solid and outline SVG icons built for SwiftUI and with support for Figma:
 
-📦 [Check out Flowbite Blocks](https://flowbite.com/blocks/)
+🔍 [Check out the icons](https://www.figma.com/file/IAdbPrA3DUvx4d7lKRCZDF/Dynamic-Layers-V.3.0?type=design&node-id=150%3A62879&mode=design&t=NmFDkHt8nlZJyhIo-1)
 
-## Flowbite Icons
+## Premium Version
 
-Start using over 430+ free and open-source collection of solid and outline SVG icons built for Tailwind CSS and with support for Figma and JSX (React):
+Get access to all premium features including the complete Figma design system and access to all 20+ Swift components:
 
-🔍 [Check out the icons](https://flowbite.com/icons/)
-
-## Flowbite GPT
-
-We've developed a custom trained ChatGPT model that you can use to generate website sections and pages based on the resources from Flowbite and Tailwind CSS.
-
-🤖 [Generate with Flowbite GPT](https://chat.openai.com/g/g-y7yC35HB9-flowbite-gpt)
-
-## Pro version
-
-Get access to all premium features including the Figma design system, access to all Flowbite Block sections and a dashboard UI interface:
-
-💎 [Check out Flowbite Pro](https://flowbite.com/pro/)
-
-## Hire us
-
-If you're ready to take your application to the next level you can work with us on your project with developers who have been using Flowbite and Tailwind CSS.
-
-🙋‍♂️ [Work with us](https://flowbite.com/work-with-us/)
-
-## Learn Design Concepts
-
-If you want to create even better Flowbite pages, learn design fundamentals from Teach Me Design - Enhance UI, a book that covers color theory, typography, UI and UX so you can make the most to implement the Flowbite Ecosystem!
-
-📖 [Learn with Enhance UI](https://www.enhanceui.com/?ref=flowbite-github)
-
-## Community
-
-If you need help or just want to discuss about the library join the community on Github:
-
-⌨️ [Discuss about Flowbite on GitHub](https://github.com/themesberg/flowbite/discussions)
-
-For casual chatting with others using the library:
-
-💬 [Join the Flowbite Discord Server](https://discord.gg/4eeurUVvTy)
-
-Video tutorials and presentations using Flowbite:
-
-🎥 [Subscribe to our YouTube channel](https://www.youtube.com/channel/UC_Ms4V2kYDsh7F_CSsHyQ6A)
+💎 [Check out Dynamic Layer Premium](https://dynamiclayers.de)
 
 ## Copyright and license
 
-The Flowbite name and logos are trademarks of Bergside Inc.
+The Dynamic Layer name and logo are trademarks of Dynamic Layer Inc.
 
-- 📝 [Read about the licensing terms](https://flowbite.com/docs/getting-started/license/)
-- 📀 [Brand guideline and trademark usage agreement](https://flowbite.com/brand/)
+- 📝 [Read about the licensing terms](https://dynamiclayers.de/docs/getting-started/license/)
+- 📀 [Brand guideline and trademark usage agreement](https://dynamiclayers.de/brand/)
