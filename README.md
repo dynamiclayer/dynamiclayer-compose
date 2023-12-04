@@ -1,6 +1,6 @@
 <p>
     <a href="https://dynamiclayers.de" >
-      <img alt="Dynamic Layer - Swift and Figma components" width="100%" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e1fec0ce6a25b81eb1884_swift-github-read-me.jpg">
+      <img alt="Dynamic Layer - Compose and Figma components" width="100%" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e4b24232e1ec4f9df3658_compose-github-read-me.jpg">
     </a>
 </p>
 
@@ -35,7 +35,7 @@ If you want to know how to best use the files, you can watch our YouTube video. 
 
 ## Components
 
-Dynamic Layer is an collection of UI components built with Figma and SwiftUI that you can use as a starting point when coding user interfaces and mobile apps.
+Dynamic Layer is an collection of UI components built with Figma and Compose that you can use as a starting point when coding user interfaces and mobile apps.
 
 <table>
   <tr>
@@ -196,7 +196,7 @@ Dynamic Layer is an collection of UI components built with Figma and SwiftUI tha
 
 ## Tokens
 
-Dynamic Layer is an collection of UI components built with Figma and SwiftUI that you can use as a starting point when coding user interfaces and mobile apps.
+Dynamic Layer is an collection of UI components built with Figma and Compose that you can use as a starting point when coding user interfaces and mobile apps.
 
 <table>
   <tr>
@@ -259,7 +259,7 @@ Start using over 200+ free and open-source collection of solid and outline SVG i
 
 ## Premium Version
 
-Get access to all premium features including the complete Figma design system and access to all 20+ Swift components:
+Get access to all premium features including the complete Figma design system and access to all 20+ Compose components:
 
 💎 [Check out Dynamic Layer Premium](https://dynamiclayers.de)
 
