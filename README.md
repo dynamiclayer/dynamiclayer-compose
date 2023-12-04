@@ -1,5 +1,3 @@
-# compose-components
-
 <p>
     <a href="https://flowbite.com" >
       <img alt="Flowbite - Tailwind CSS components" width="350" src="https://flowbite.s3.amazonaws.com/github/logo-github.png">
