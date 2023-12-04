@@ -20,7 +20,8 @@
 
 ## How to use
 
-For full documentation, visit [flowbite.com](https://flowbite.com/).
+If you want to know how to best use the files, you can watch our YouTube video. There we will explain to you step by step what you have to do.
+[🎥 Check out our YouTube channel](https://dynamiclayers.de/).
 
 ## Getting started
 
